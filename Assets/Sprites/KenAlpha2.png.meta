@@ -1,0 +1,1068 @@
+fileFormatVersion: 2
+guid: 2024ef4d6042fb542bdfd9c289ac985b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6470628243063147788
+    second: Idle01
+  - first:
+      213: 6352994599412573280
+    second: Idle02
+  - first:
+      213: 1924985538992817860
+    second: Idle03
+  - first:
+      213: -2958134303994205650
+    second: Idle04
+  - first:
+      213: 4777623789064587420
+    second: KenAlpha2_4
+  - first:
+      213: -142493991126820185
+    second: Idle05
+  - first:
+      213: -1686623599074878524
+    second: Idle06
+  - first:
+      213: -55642740066343851
+    second: Run01
+  - first:
+      213: -4854486974960713997
+    second: Run02
+  - first:
+      213: 4056486413875885440
+    second: Run03
+  - first:
+      213: -8723226067163661042
+    second: Run04
+  - first:
+      213: -5208826764382544383
+    second: Run05
+  - first:
+      213: 6899780808447724126
+    second: Run06
+  - first:
+      213: -1983696119692047591
+    second: Crouch01
+  - first:
+      213: 1893987370384702629
+    second: Crouch02
+  - first:
+      213: -7979992584541147397
+    second: Crouch03
+  - first:
+      213: 1409559242721846342
+    second: ShootCrouch01
+  - first:
+      213: -91453952784645651
+    second: ShootCrouch02
+  - first:
+      213: -4249022296461439923
+    second: ShootCrouch03
+  - first:
+      213: -7823784736956808776
+    second: ShootCrouch04
+  - first:
+      213: 8041059981039461652
+    second: Jump01
+  - first:
+      213: 4446602087084621062
+    second: Jump02
+  - first:
+      213: 6275653713601889180
+    second: JumpRun01
+  - first:
+      213: -8495977261100265307
+    second: JumpRun02
+  - first:
+      213: 3267352443686674909
+    second: JumpRun03
+  - first:
+      213: 3902072496885147507
+    second: JumpRun04
+  - first:
+      213: -8843341753008870893
+    second: JumpRun05
+  - first:
+      213: 1586722378344764954
+    second: JumpRun06
+  - first:
+      213: -605626433897541736
+    second: Jump03
+  - first:
+      213: 6081724712357905153
+    second: Jump04
+  - first:
+      213: 901986651722758750
+    second: JumpIdle01
+  - first:
+      213: -3245876947907843144
+    second: JumpIdle02
+  - first:
+      213: -9143623078507037497
+    second: JumpIdle03
+  - first:
+      213: -5907190605013163755
+    second: JumpIdle04
+  - first:
+      213: 8525830980502982551
+    second: Shoot01
+  - first:
+      213: -4241562820702429985
+    second: Shoot02
+  - first:
+      213: 8713068552045733790
+    second: Shoot03
+  - first:
+      213: 7273748844688902192
+    second: Shoot04
+  - first:
+      213: -9142684376523676256
+    second: Shoot05
+  - first:
+      213: 4799177774928209784
+    second: Shoot06
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Idle01
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 470
+        width: 66
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f27c9255e5b336a0800000000000000
+      internalID: -6470628243063147788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle02
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 470
+        width: 66
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06426f5bdee5a2850800000000000000
+      internalID: 6352994599412573280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle03
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 470
+        width: 66
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c64e61162ce6ba10800000000000000
+      internalID: 1924985538992817860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle04
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 470
+        width: 64
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2a278cf58892f6d0800000000000000
+      internalID: -2958134303994205650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KenAlpha2_4
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 470
+        width: 64
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9886a1f5878d4240800000000000000
+      internalID: 4777623789064587420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle05
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 470
+        width: 66
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aa12445872c50ef0800000000000000
+      internalID: -142493991126820185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle06
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 470
+        width: 66
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cbd953d5c8e798e0800000000000000
+      internalID: -1686623599074878524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run01
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 358
+        width: 63
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 554240409315a3ff0800000000000000
+      internalID: -55642740066343851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run02
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 358
+        width: 69
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3feb4b201d561acb0800000000000000
+      internalID: -4854486974960713997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run03
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 358
+        width: 68
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0853547b6e88b4830800000000000000
+      internalID: 4056486413875885440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run04
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 358
+        width: 59
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0d384b0c10e0f680800000000000000
+      internalID: -8723226067163661042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run05
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 358
+        width: 54
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10e5e64c7a786b7b0800000000000000
+      internalID: -5208826764382544383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run06
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 358
+        width: 56
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5a8593b612f0cf50800000000000000
+      internalID: 6899780808447724126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crouch01
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 253
+        width: 63
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b4f63a3ee7874e0800000000000000
+      internalID: -1983696119692047591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crouch02
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 253
+        width: 62
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ac3bd48a7bc84a10800000000000000
+      internalID: 1893987370384702629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crouch03
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 253
+        width: 62
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfe6c20360f514190800000000000000
+      internalID: -7979992584541147397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShootCrouch01
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 275
+        width: 62
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 644ed40c9a2cf8310800000000000000
+      internalID: 1409559242721846342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShootCrouch02
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 275
+        width: 64
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de147fe4d171bbef0800000000000000
+      internalID: -91453952784645651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShootCrouch03
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 275
+        width: 101
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4c83b0dbb07805c0800000000000000
+      internalID: -4249022296461439923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShootCrouch04
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 275
+        width: 64
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b10192eb355c6390800000000000000
+      internalID: -7823784736956808776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump01
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 117
+        width: 63
+        height: 114
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 415677b0375979f60800000000000000
+      internalID: 8041059981039461652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump02
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 117
+        width: 62
+        height: 114
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60d70320a0185bd30800000000000000
+      internalID: 4446602087084621062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpRun01
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 117
+        width: 61
+        height: 114
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c930a9c7dc9971750800000000000000
+      internalID: 6275653713601889180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpRun02
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 117
+        width: 60
+        height: 114
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a09254d1b9381a80800000000000000
+      internalID: -8495977261100265307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpRun03
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 117
+        width: 97
+        height: 114
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd1e2f18cb7f75d20800000000000000
+      internalID: 3267352443686674909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpRun04
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 117
+        width: 59
+        height: 114
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37729a80342f62630800000000000000
+      internalID: 3902072496885147507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpRun05
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 117
+        width: 115
+        height: 114
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31aa6889783264580800000000000000
+      internalID: -8843341753008870893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpRun06
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 117
+        width: 87
+        height: 114
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a161766a89b250610800000000000000
+      internalID: 1586722378344764954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump03
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 117
+        width: 62
+        height: 114
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89f43f497f16897f0800000000000000
+      internalID: -605626433897541736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump04
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 117
+        width: 63
+        height: 114
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 103cecd4760a66450800000000000000
+      internalID: 6081724712357905153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpIdle01
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 117
+        width: 64
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5a3410b410848c00800000000000000
+      internalID: 901986651722758750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpIdle02
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 117
+        width: 69
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bbe25ffc1454f2d0800000000000000
+      internalID: -3245876947907843144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpIdle03
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 117
+        width: 61
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cc368d41435b1180800000000000000
+      internalID: -9143623078507037497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpIdle04
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 117
+        width: 64
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5116aaf3171750ea0800000000000000
+      internalID: -5907190605013163755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot01
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 7
+        width: 74
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79f86efda16d15670800000000000000
+      internalID: 8525830980502982551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot02
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 7
+        width: 90
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc178b5611f225c0800000000000000
+      internalID: -4241562820702429985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot03
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 7
+        width: 96
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e97205c2fa90be870800000000000000
+      internalID: 8713068552045733790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot04
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 7
+        width: 114
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0380719490c81f460800000000000000
+      internalID: 7273748844688902192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot05
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 7
+        width: 114
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a5eac3eff8ae1180800000000000000
+      internalID: -9142684376523676256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot06
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 7
+        width: 65
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 877ab8852ca1a9240800000000000000
+      internalID: 4799177774928209784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

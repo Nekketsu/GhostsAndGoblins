@@ -1,0 +1,5628 @@
+fileFormatVersion: 2
+guid: 2ff2e4655166ead41ba07d55c743a9a1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2569822444282126550
+    second: Soccer_0
+  - first:
+      213: -5590019763958716979
+    second: Soccer_1
+  - first:
+      213: -1701190552855824034
+    second: Soccer_2
+  - first:
+      213: -7026889260173129951
+    second: Soccer_3
+  - first:
+      213: 8413569119361041927
+    second: Soccer_4
+  - first:
+      213: 1654768760464078326
+    second: Soccer_5
+  - first:
+      213: 2186802962850296399
+    second: Soccer_6
+  - first:
+      213: -4321444746479799855
+    second: Soccer_7
+  - first:
+      213: -7251112522453321139
+    second: Soccer_8
+  - first:
+      213: 1543159280077505225
+    second: Soccer_9
+  - first:
+      213: 2836142864213180051
+    second: Soccer_10
+  - first:
+      213: 3142029662203969430
+    second: Soccer_11
+  - first:
+      213: 4550323744465290029
+    second: Soccer_12
+  - first:
+      213: -460074604036519075
+    second: Soccer_13
+  - first:
+      213: 689256357779198264
+    second: Soccer_14
+  - first:
+      213: 1659098653838519409
+    second: Soccer_15
+  - first:
+      213: -9010100576723046167
+    second: Soccer_16
+  - first:
+      213: -4531448060308595791
+    second: Soccer_17
+  - first:
+      213: -1565616134108621819
+    second: Soccer_18
+  - first:
+      213: 1248876996914402151
+    second: Soccer_19
+  - first:
+      213: 6300871554698672650
+    second: Soccer_20
+  - first:
+      213: -7135358868353613375
+    second: Soccer_21
+  - first:
+      213: -8984726019016895423
+    second: Soccer_22
+  - first:
+      213: 2883718289554819756
+    second: Soccer_23
+  - first:
+      213: -2258048121031963018
+    second: Soccer_24
+  - first:
+      213: 9118553988558745257
+    second: Soccer_25
+  - first:
+      213: 1840895631443030187
+    second: Soccer_26
+  - first:
+      213: 1673987116853714434
+    second: Soccer_27
+  - first:
+      213: 5289743549446438646
+    second: Soccer_28
+  - first:
+      213: 1937942750978753349
+    second: Soccer_29
+  - first:
+      213: 262125568426507691
+    second: Soccer_30
+  - first:
+      213: 8640263277243923594
+    second: Soccer_31
+  - first:
+      213: -3492660114426079865
+    second: Soccer_32
+  - first:
+      213: 6343011188638640970
+    second: Soccer_33
+  - first:
+      213: 296233884572612258
+    second: Soccer_34
+  - first:
+      213: -5604410400548922416
+    second: Soccer_35
+  - first:
+      213: -6450388079247907868
+    second: Soccer_36
+  - first:
+      213: -3108012100082732670
+    second: Soccer_37
+  - first:
+      213: -6902803769500234528
+    second: Soccer_38
+  - first:
+      213: 926092647291894463
+    second: Soccer_39
+  - first:
+      213: 2347884532238026668
+    second: Soccer_40
+  - first:
+      213: 1306695608347742912
+    second: Soccer_41
+  - first:
+      213: 695386374170864540
+    second: Soccer_42
+  - first:
+      213: -3244866865997720435
+    second: Soccer_43
+  - first:
+      213: -2342379153278414630
+    second: Soccer_44
+  - first:
+      213: -3277505302721791181
+    second: Soccer_45
+  - first:
+      213: 819711647874220202
+    second: Soccer_46
+  - first:
+      213: 8691386362515903546
+    second: Soccer_47
+  - first:
+      213: 3638149695754722662
+    second: Soccer_48
+  - first:
+      213: -5214799142795577972
+    second: Soccer_49
+  - first:
+      213: 2610103188464042052
+    second: Soccer_50
+  - first:
+      213: -5455694802604066377
+    second: Soccer_51
+  - first:
+      213: 7100359807359716193
+    second: Soccer_52
+  - first:
+      213: -8750509117656335140
+    second: Soccer_53
+  - first:
+      213: -3933649080884533248
+    second: Soccer_54
+  - first:
+      213: -261114262605718839
+    second: Soccer_55
+  - first:
+      213: 6109156990921237055
+    second: Soccer_56
+  - first:
+      213: -1687225268674659178
+    second: Soccer_57
+  - first:
+      213: -609779329539721501
+    second: Soccer_58
+  - first:
+      213: 7397858926474672959
+    second: Soccer_59
+  - first:
+      213: -8748164820491844416
+    second: Soccer_60
+  - first:
+      213: -4025896417591351644
+    second: Soccer_61
+  - first:
+      213: -4061548232779522473
+    second: Soccer_62
+  - first:
+      213: -2743666964907752532
+    second: Soccer_63
+  - first:
+      213: -3372332308382153105
+    second: Soccer_64
+  - first:
+      213: -8280123804547134010
+    second: Soccer_65
+  - first:
+      213: -6052840091587291198
+    second: Soccer_66
+  - first:
+      213: -2093615891014463785
+    second: Soccer_67
+  - first:
+      213: -5539823310978484930
+    second: Soccer_68
+  - first:
+      213: -4047838077822803895
+    second: Soccer_69
+  - first:
+      213: -7510983733424381912
+    second: Soccer_70
+  - first:
+      213: -6927379310338277842
+    second: Soccer_71
+  - first:
+      213: -8667937663988496673
+    second: Soccer_72
+  - first:
+      213: 8315324090769225877
+    second: Soccer_73
+  - first:
+      213: 3159983765937922956
+    second: Soccer_74
+  - first:
+      213: 575266084223823514
+    second: Soccer_75
+  - first:
+      213: -6556566139105854971
+    second: Soccer_76
+  - first:
+      213: 6119305378556106239
+    second: Soccer_77
+  - first:
+      213: 2556736654989754304
+    second: Soccer_78
+  - first:
+      213: 3293532716822877697
+    second: Soccer_79
+  - first:
+      213: -1298051566401598745
+    second: Soccer_80
+  - first:
+      213: 7486780862769766763
+    second: Soccer_81
+  - first:
+      213: -3600954558677274675
+    second: Soccer_82
+  - first:
+      213: 7709945940697887030
+    second: Soccer_83
+  - first:
+      213: -8696320945670852435
+    second: Soccer_84
+  - first:
+      213: 2986701471496836516
+    second: Soccer_85
+  - first:
+      213: -5670316496421015194
+    second: Soccer_86
+  - first:
+      213: 7589365432467663319
+    second: Soccer_87
+  - first:
+      213: -3486001343594214522
+    second: Soccer_88
+  - first:
+      213: 1437210647834791712
+    second: Soccer_89
+  - first:
+      213: 1551113503295091535
+    second: Soccer_90
+  - first:
+      213: 1755505271940140832
+    second: Soccer_91
+  - first:
+      213: 3068852047042558959
+    second: Soccer_92
+  - first:
+      213: -529709392801573518
+    second: Soccer_93
+  - first:
+      213: -9070774714410438946
+    second: Soccer_94
+  - first:
+      213: 2613635994948038627
+    second: Soccer_95
+  - first:
+      213: -6781797342624595617
+    second: Soccer_96
+  - first:
+      213: 5097399008997125506
+    second: Soccer_97
+  - first:
+      213: -4955734373759322883
+    second: Soccer_98
+  - first:
+      213: -7766080207154022334
+    second: Soccer_99
+  - first:
+      213: 3049001779366025630
+    second: Soccer_100
+  - first:
+      213: -800581571227870716
+    second: Soccer_101
+  - first:
+      213: -3427029600450179362
+    second: Soccer_102
+  - first:
+      213: -5963140103992877392
+    second: Soccer_103
+  - first:
+      213: -4004770821582421182
+    second: Soccer_104
+  - first:
+      213: 2562280490990165926
+    second: Soccer_105
+  - first:
+      213: 4644985784613917745
+    second: Soccer_106
+  - first:
+      213: -4914310308276262830
+    second: Soccer_107
+  - first:
+      213: -2274497668139363841
+    second: Soccer_108
+  - first:
+      213: 4519585357610668941
+    second: Soccer_109
+  - first:
+      213: -1217958518356933766
+    second: Soccer_110
+  - first:
+      213: 3851325730036090576
+    second: Soccer_111
+  - first:
+      213: 4330240046577486357
+    second: Soccer_112
+  - first:
+      213: -7169622296028014662
+    second: Soccer_113
+  - first:
+      213: 3285121320182872111
+    second: Soccer_114
+  - first:
+      213: -8823467725434730157
+    second: Soccer_115
+  - first:
+      213: -8820779126899745490
+    second: Soccer_116
+  - first:
+      213: 7297111353143053055
+    second: Soccer_117
+  - first:
+      213: -5307255422796092847
+    second: Soccer_118
+  - first:
+      213: -9137482632832668494
+    second: Soccer_119
+  - first:
+      213: 4767622251451307817
+    second: Soccer_120
+  - first:
+      213: -4363689277703099010
+    second: Soccer_121
+  - first:
+      213: -7366184066324327463
+    second: Soccer_122
+  - first:
+      213: -7182182261008920138
+    second: Soccer_123
+  - first:
+      213: 4093188475576922035
+    second: Soccer_124
+  - first:
+      213: -2187947336972672272
+    second: Soccer_125
+  - first:
+      213: 3866990780256579983
+    second: Soccer_126
+  - first:
+      213: 8938101833216498675
+    second: Soccer_127
+  - first:
+      213: -7537219650099932076
+    second: Soccer_128
+  - first:
+      213: 8474056290472844311
+    second: Soccer_129
+  - first:
+      213: 1276387303420906442
+    second: Soccer_130
+  - first:
+      213: 8443397372050111284
+    second: Soccer_131
+  - first:
+      213: -1350543363050974399
+    second: Soccer_132
+  - first:
+      213: 2014360741053276001
+    second: Soccer_133
+  - first:
+      213: 2898129885046386813
+    second: Soccer_134
+  - first:
+      213: 7660900016525458940
+    second: Soccer_135
+  - first:
+      213: 1497594379333406197
+    second: Soccer_136
+  - first:
+      213: -394667491318187662
+    second: Soccer_137
+  - first:
+      213: 4699576734349919931
+    second: Soccer_138
+  - first:
+      213: 1179534379586794260
+    second: Soccer_139
+  - first:
+      213: 3275383109509487993
+    second: Soccer_140
+  - first:
+      213: -5107416127379570864
+    second: Soccer_141
+  - first:
+      213: 6033089309106779630
+    second: Soccer_142
+  - first:
+      213: 3120591118600616632
+    second: Soccer_143
+  - first:
+      213: -100059984497101408
+    second: Soccer_144
+  - first:
+      213: -301003705127660199
+    second: Soccer_145
+  - first:
+      213: -2830088623608704583
+    second: Soccer_146
+  - first:
+      213: 2774123556046358289
+    second: Soccer_147
+  - first:
+      213: -5269384620582083108
+    second: Soccer_148
+  - first:
+      213: 3304947067821733298
+    second: Soccer_149
+  - first:
+      213: 2277729091811282419
+    second: Soccer_150
+  - first:
+      213: -1825369803721630350
+    second: Soccer_151
+  - first:
+      213: -8536537241344506304
+    second: Soccer_152
+  - first:
+      213: -2416010128357058125
+    second: Soccer_153
+  - first:
+      213: -6092200768546884976
+    second: Soccer_154
+  - first:
+      213: 8121198016356600494
+    second: Soccer_155
+  - first:
+      213: -680216087236043590
+    second: Soccer_156
+  - first:
+      213: 6715214577781386448
+    second: Soccer_157
+  - first:
+      213: -1544838802204785993
+    second: Soccer_158
+  - first:
+      213: 5737617665509281397
+    second: Soccer_159
+  - first:
+      213: -6147920382457248306
+    second: Soccer_160
+  - first:
+      213: 234607060634772075
+    second: Soccer_161
+  - first:
+      213: 7582265729243978825
+    second: Soccer_162
+  - first:
+      213: -1220959822425463708
+    second: Soccer_163
+  - first:
+      213: -2456979130199403462
+    second: Soccer_164
+  - first:
+      213: -1656586975911751778
+    second: Soccer_165
+  - first:
+      213: 1468674221754884494
+    second: Soccer_166
+  - first:
+      213: 7249372297880256714
+    second: Soccer_167
+  - first:
+      213: 4603694623808018800
+    second: Soccer_168
+  - first:
+      213: -1009542378233135941
+    second: Soccer_169
+  - first:
+      213: 477656636998930205
+    second: Soccer_170
+  - first:
+      213: -5745782497627357048
+    second: Soccer_171
+  - first:
+      213: 7832414837930212215
+    second: Soccer_172
+  - first:
+      213: -7864883163182602071
+    second: Soccer_173
+  - first:
+      213: -1225857161360311100
+    second: Soccer_174
+  - first:
+      213: -260759889127308487
+    second: Soccer_175
+  - first:
+      213: 1411246423492627183
+    second: Soccer_176
+  - first:
+      213: -7360634918855954357
+    second: Soccer_177
+  - first:
+      213: -7474557195797978350
+    second: Soccer_178
+  - first:
+      213: -7717288565981593385
+    second: Soccer_179
+  - first:
+      213: 4487473022650191935
+    second: Soccer_180
+  - first:
+      213: 6444984253301433862
+    second: Soccer_181
+  - first:
+      213: -551526654881900418
+    second: Soccer_182
+  - first:
+      213: -7251239934953802087
+    second: Soccer_183
+  - first:
+      213: -416647160777136518
+    second: Soccer_184
+  - first:
+      213: 7021221462950983431
+    second: Soccer_185
+  - first:
+      213: -6305968741631912658
+    second: Soccer_186
+  - first:
+      213: 1016911267762068647
+    second: Soccer_187
+  - first:
+      213: -9147955006966786857
+    second: Soccer_188
+  - first:
+      213: -6621226506581187380
+    second: Soccer_189
+  - first:
+      213: 9031108594401275889
+    second: Soccer_190
+  - first:
+      213: -968948297474542109
+    second: Soccer_191
+  - first:
+      213: 1498914130112257349
+    second: Soccer_192
+  - first:
+      213: -6786972646888432305
+    second: Soccer_193
+  - first:
+      213: 7966962551601122464
+    second: Soccer_194
+  - first:
+      213: -2180387060816249080
+    second: Soccer_195
+  - first:
+      213: -6501479882009898103
+    second: Soccer_196
+  - first:
+      213: -7421336990870227112
+    second: Soccer_197
+  - first:
+      213: 9016533312352211203
+    second: Soccer_198
+  - first:
+      213: -4242251643773452679
+    second: Soccer_199
+  - first:
+      213: 1898679509203608167
+    second: Soccer_200
+  - first:
+      213: 570494987115635719
+    second: Soccer_201
+  - first:
+      213: 1148002966128377872
+    second: Soccer_202
+  - first:
+      213: 2832085645017670520
+    second: Soccer_203
+  - first:
+      213: -3540117837531774558
+    second: Soccer_204
+  - first:
+      213: -1520822996727339010
+    second: Soccer_205
+  - first:
+      213: 280373556393904143
+    second: Soccer_206
+  - first:
+      213: 4144927046537913855
+    second: Soccer_207
+  - first:
+      213: -2827647913113388269
+    second: Soccer_208
+  - first:
+      213: 8054738541969895720
+    second: Soccer_209
+  - first:
+      213: 1265128072886068263
+    second: Soccer_210
+  - first:
+      213: -5079446209105268154
+    second: Soccer_211
+  - first:
+      213: -3798938903373498935
+    second: Soccer_212
+  - first:
+      213: -1132536301855222127
+    second: Soccer_213
+  - first:
+      213: 600216891666610625
+    second: Soccer_214
+  - first:
+      213: 4186834528792933372
+    second: Soccer_215
+  - first:
+      213: -8351668280015689165
+    second: Soccer_216
+  - first:
+      213: 7664243136755806462
+    second: Soccer_217
+  - first:
+      213: 7906767044608770912
+    second: Soccer_218
+  - first:
+      213: 7015146324344558919
+    second: Soccer_219
+  - first:
+      213: 8797877161954950395
+    second: Soccer_220
+  - first:
+      213: 8981714184913610921
+    second: Soccer_221
+  - first:
+      213: 8283369380638377239
+    second: Soccer_222
+  - first:
+      213: 7156017983131897855
+    second: Soccer_223
+  - first:
+      213: -6180593937654013306
+    second: Soccer_224
+  - first:
+      213: 3465928224975270968
+    second: Soccer_225
+  - first:
+      213: -8423249358257251099
+    second: Soccer_226
+  - first:
+      213: 9088230404442005883
+    second: Soccer_227
+  - first:
+      213: -6325604691971554879
+    second: Soccer_228
+  - first:
+      213: -3613795131882003777
+    second: Soccer_229
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Soccer_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2271
+        width: 127
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2fdcb83a18265cd0800000000000000
+      internalID: -2569822444282126550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_1
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 2271
+        width: 126
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc5e3d154a24c62b0800000000000000
+      internalID: -5590019763958716979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_2
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 2271
+        width: 128
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5937c994382468e0800000000000000
+      internalID: -1701190552855824034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_3
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 2271
+        width: 128
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1278f5ba2797b7e90800000000000000
+      internalID: -7026889260173129951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_4
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 2360
+        width: 11
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70606bc798003c470800000000000000
+      internalID: 8413569119361041927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_5
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 2360
+        width: 27
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f5ffd89b6be6f610800000000000000
+      internalID: 1654768760464078326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_6
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 2360
+        width: 16
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f42b67265b5195e10800000000000000
+      internalID: 2186802962850296399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_7
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 2378
+        width: 5
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d1f79926e42704c0800000000000000
+      internalID: -4321444746479799855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_8
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 2360
+        width: 10
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a78c0349fde5b90800000000000000
+      internalID: -7251112522453321139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_9
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 2360
+        width: 38
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c20ed070376a6510800000000000000
+      internalID: 1543159280077505225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_10
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 2360
+        width: 34
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39e7fa198e00c5720800000000000000
+      internalID: 2836142864213180051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_11
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 2360
+        width: 27
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69f7861a45bba9b20800000000000000
+      internalID: 3142029662203969430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_12
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 2355
+        width: 8
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2301e1465ff52f30800000000000000
+      internalID: 4550323744465290029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_13
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 2355
+        width: 15
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5b8930d59c7d99f0800000000000000
+      internalID: -460074604036519075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_14
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 2360
+        width: 17
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 831db9c610bb09900800000000000000
+      internalID: 689256357779198264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_15
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 2360
+        width: 30
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17caf557f6d460710800000000000000
+      internalID: 1659098653838519409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_16
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 2360
+        width: 25
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e071e55341b5f280800000000000000
+      internalID: -9010100576723046167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_17
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 2360
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb5c2f6fff0d11c0800000000000000
+      internalID: -4531448060308595791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_18
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 2328
+        width: 17
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 504d5d7cb60d54ae0800000000000000
+      internalID: -1565616134108621819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_19
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 2328
+        width: 16
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7635d390307e45110800000000000000
+      internalID: 1248876996914402151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_20
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 2328
+        width: 5
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0a7d29ab41317750800000000000000
+      internalID: 6300871554698672650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_21
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 2328
+        width: 52
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c189daf9ec1afc90800000000000000
+      internalID: -7135358868353613375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_22
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 2328
+        width: 16
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 144d940f947df4380800000000000000
+      internalID: -8984726019016895423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_23
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 2328
+        width: 13
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa46397186050820800000000000000
+      internalID: 2883718289554819756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_24
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 2328
+        width: 11
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67ec624923dc9a0e0800000000000000
+      internalID: -2258048121031963018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_25
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 2339
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aee3495a8c9b8e70800000000000000
+      internalID: 9118553988558745257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_26
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 2328
+        width: 15
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba0fab4c2dc2c8910800000000000000
+      internalID: 1840895631443030187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_27
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 2328
+        width: 16
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20e55a2e9623b3710800000000000000
+      internalID: 1673987116853714434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_28
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 2328
+        width: 17
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fe3ba16bb1f86940800000000000000
+      internalID: 5289743549446438646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_29
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 2328
+        width: 28
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 543c1231aa4f4ea10800000000000000
+      internalID: 1937942750978753349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_30
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 2328
+        width: 27
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: badfb90d0d143a300800000000000000
+      internalID: 262125568426507691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_31
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 2328
+        width: 31
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8cf9fd2ca168e770800000000000000
+      internalID: 8640263277243923594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_32
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 2328
+        width: 5
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 785557e7124978fc0800000000000000
+      internalID: -3492660114426079865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_33
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 2328
+        width: 5
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4b6221c117e60850800000000000000
+      internalID: 6343011188638640970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_34
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 2328
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a67264062f6c1400800000000000000
+      internalID: 296233884572612258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_35
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 2297
+        width: 17
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dbd6c32f622932b0800000000000000
+      internalID: -5604410400548922416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_36
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 2297
+        width: 14
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e3a301b73e9b76a0800000000000000
+      internalID: -6450388079247907868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_37
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 2297
+        width: 14
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 281f3f0467f1ed4d0800000000000000
+      internalID: -3108012100082732670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_38
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 2297
+        width: 25
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ec06b45b805430a0800000000000000
+      internalID: -6902803769500234528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_39
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 2291
+        width: 16
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fba3fe62b542adc00800000000000000
+      internalID: 926092647291894463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_40
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 2297
+        width: 5
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca78eadda8c559020800000000000000
+      internalID: 2347884532238026668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_41
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 2297
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c2512d8bb0522210800000000000000
+      internalID: 1306695608347742912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_42
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 2297
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9be916193286a900800000000000000
+      internalID: 695386374170864540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_43
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 2297
+        width: 14
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8455c407cae7f2d0800000000000000
+      internalID: -3244866865997720435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_44
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 2297
+        width: 14
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad05f8f02923e7fd0800000000000000
+      internalID: -2342379153278414630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_45
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 2297
+        width: 5
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33bfec9ca46f382d0800000000000000
+      internalID: -3277505302721791181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_46
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 2291
+        width: 16
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa00bc59663306b00800000000000000
+      internalID: 819711647874220202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_47
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2142
+        width: 127
+        height: 127
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a345f6709d10e9870800000000000000
+      internalID: 8691386362515903546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_48
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 2142
+        width: 126
+        height: 127
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66dd72f5fdd4d7230800000000000000
+      internalID: 3638149695754722662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_49
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 2142
+        width: 127
+        height: 127
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8578ae0fcf41a7b0800000000000000
+      internalID: -5214799142795577972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_50
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 2142
+        width: 128
+        height: 127
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 440838f5503f83420800000000000000
+      internalID: 2610103188464042052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_51
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 2263
+        width: 22
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b9f6d78b7a7944b0800000000000000
+      internalID: -5455694802604066377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_52
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 2258
+        width: 16
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16b032f10ab898260800000000000000
+      internalID: 7100359807359716193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_53
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 2258
+        width: 16
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdcf646d152ff8680800000000000000
+      internalID: -8750509117656335140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_54
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 2263
+        width: 31
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 008e5d6900fd869c0800000000000000
+      internalID: -3933649080884533248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_55
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 2263
+        width: 15
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ca199b26f5506cf0800000000000000
+      internalID: -261114262605718839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_56
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 2258
+        width: 15
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3264f06ae518c450800000000000000
+      internalID: 6109156990921237055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_57
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 2263
+        width: 40
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69c7594be85c598e0800000000000000
+      internalID: -1687225268674659178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_58
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 2258
+        width: 7
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e6b8673ee0a987f0800000000000000
+      internalID: -609779329539721501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_59
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 2263
+        width: 18
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3bb9f28f797aa660800000000000000
+      internalID: 7397858926474672959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_60
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 2263
+        width: 15
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c4c30e0276489680800000000000000
+      internalID: -8748164820491844416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_61
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 2258
+        width: 15
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a623fec9842128c0800000000000000
+      internalID: -4025896417591351644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_62
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 2263
+        width: 24
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e9f0bb66b72a7c0800000000000000
+      internalID: -4061548232779522473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_63
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 2263
+        width: 15
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca303b69e698ce9d0800000000000000
+      internalID: -2743666964907752532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_64
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 2231
+        width: 19
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f660f4602a11331d0800000000000000
+      internalID: -3372332308382153105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_65
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 2231
+        width: 17
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd46bd0547171d80800000000000000
+      internalID: -8280123804547134010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_66
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 2239
+        width: 9
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c752ba810efffba0800000000000000
+      internalID: -6052840091587291198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_67
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 2231
+        width: 21
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7de48f7807bf1f2e0800000000000000
+      internalID: -2093615891014463785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_68
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 2198
+        width: 17
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e35f2b6cc089e13b0800000000000000
+      internalID: -5539823310978484930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_69
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 2198
+        width: 15
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 940621fe6b033d7c0800000000000000
+      internalID: -4047838077822803895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_70
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 2193
+        width: 15
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 820a08fd610a3c790800000000000000
+      internalID: -7510983733424381912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_71
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 2193
+        width: 16
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2e75e658310ddf90800000000000000
+      internalID: -6927379310338277842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_72
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 2198
+        width: 16
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd68cba8e9c45b780800000000000000
+      internalID: -8667937663988496673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_73
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 2193
+        width: 15
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5983c8e3437f56370800000000000000
+      internalID: 8315324090769225877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_74
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 2198
+        width: 14
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c832bb82e748adb20800000000000000
+      internalID: 3159983765937922956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_75
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 2198
+        width: 12
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9ead79a471cbf700800000000000000
+      internalID: 575266084223823514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_76
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 2198
+        width: 16
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50abd3ca5d56205a0800000000000000
+      internalID: -6556566139105854971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_77
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 2198
+        width: 15
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff559f002d32ce450800000000000000
+      internalID: 6119305378556106239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_78
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 2198
+        width: 17
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cf72e8017a5b7320800000000000000
+      internalID: 2556736654989754304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_79
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 2167
+        width: 17
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 106da5a5e8af4bd20800000000000000
+      internalID: 3293532716822877697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_80
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 2167
+        width: 10
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ea4e7c4af46cfde0800000000000000
+      internalID: -1298051566401598745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_81
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 2167
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b61a59c278366e760800000000000000
+      internalID: 7486780862769766763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_82
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 2167
+        width: 15
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcfa7b558e6d60ec0800000000000000
+      internalID: -3600954558677274675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_83
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 2167
+        width: 31
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63133c8ebfa3ffa60800000000000000
+      internalID: 7709945940697887030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_84
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 2167
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da0ff7ccc26705780800000000000000
+      internalID: -8696320945670852435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_85
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 2167
+        width: 27
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a594b20a25e27920800000000000000
+      internalID: 2986701471496836516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_86
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 2167
+        width: 14
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 661b9ca603dfe41b0800000000000000
+      internalID: -5670316496421015194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_87
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 2167
+        width: 45
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d92dd096a7d25960800000000000000
+      internalID: 7589365432467663319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_88
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 2167
+        width: 12
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68b48846f3c3f9fc0800000000000000
+      internalID: -3486001343594214522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_89
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 2167
+        width: 12
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02f0a93387ff1f310800000000000000
+      internalID: 1437210647834791712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_90
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 2167
+        width: 14
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f43373a5389a68510800000000000000
+      internalID: 1551113503295091535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_91
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 2161
+        width: 27
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02f41576ebecc5810800000000000000
+      internalID: 1755505271940140832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_92
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2074
+        width: 80
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: febb3346da0c69a20800000000000000
+      internalID: 3068852047042558959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_93
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 2074
+        width: 82
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 275dfdf1d1816a8f0800000000000000
+      internalID: -529709392801573518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_94
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 2074
+        width: 82
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ede68fdc4722e1280800000000000000
+      internalID: -9070774714410438946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_95
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 2074
+        width: 80
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ef6d0bf610854420800000000000000
+      internalID: 2613635994948038627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_96
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 2074
+        width: 82
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f514c269f3732e1a0800000000000000
+      internalID: -6781797342624595617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_97
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 2074
+        width: 82
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28da3b934699db640800000000000000
+      internalID: 5097399008997125506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_98
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 2074
+        width: 81
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df4f1eaf7d1b93bb0800000000000000
+      internalID: -4955734373759322883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_99
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 2074
+        width: 82
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2487463b237593490800000000000000
+      internalID: -7766080207154022334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_100
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 2073
+        width: 97
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9955aac6fa305a20800000000000000
+      internalID: 3049001779366025630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_101
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2006
+        width: 80
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40a1d397d43c3e4f0800000000000000
+      internalID: -800581571227870716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_102
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 2006
+        width: 82
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ede0b6e4cbeb070d0800000000000000
+      internalID: -3427029600450179362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_103
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 2006
+        width: 82
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be5e936babae3da0800000000000000
+      internalID: -5963140103992877392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_104
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 2006
+        width: 80
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2430bbce7223c68c0800000000000000
+      internalID: -4004770821582421182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_105
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 2006
+        width: 82
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6afd160f78c0f8320800000000000000
+      internalID: 2562280490990165926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_106
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 2006
+        width: 82
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 134d6aef5fd467040800000000000000
+      internalID: 4644985784613917745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_107
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 2006
+        width: 81
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 258272fcfccdccbb0800000000000000
+      internalID: -4914310308276262830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_108
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 2006
+        width: 82
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff15910fb6c5f60e0800000000000000
+      internalID: -2274497668139363841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_109
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 2005
+        width: 97
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d83d07cdfeac8be30800000000000000
+      internalID: 4519585357610668941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_110
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1938
+        width: 80
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a738c2a3e21f81fe0800000000000000
+      internalID: -1217958518356933766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_111
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1938
+        width: 82
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d68f15a858a27530800000000000000
+      internalID: 3851325730036090576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_112
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 1938
+        width: 82
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51a0c68316a181c30800000000000000
+      internalID: 4330240046577486357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_113
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1938
+        width: 80
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab7978f0282608c90800000000000000
+      internalID: -7169622296028014662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_114
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1938
+        width: 82
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f28ff857f68179d20800000000000000
+      internalID: 3285121320182872111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_115
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 1938
+        width: 82
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 359c65a3adebc8580800000000000000
+      internalID: -8823467725434730157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_116
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 1938
+        width: 81
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2dd5fa5e1c469580800000000000000
+      internalID: -8820779126899745490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_117
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 1938
+        width: 82
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffacf8a2d1c844560800000000000000
+      internalID: 7297111353143053055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_118
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 1938
+        width: 82
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15a29ffdf47d856b0800000000000000
+      internalID: -5307255422796092847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_119
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 1937
+        width: 97
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bc25b835f3213180800000000000000
+      internalID: -9137482632832668494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_120
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1870
+        width: 80
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 927d0018d2ff92240800000000000000
+      internalID: 4767622251451307817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_121
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1870
+        width: 82
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7d6354c8bf0173c0800000000000000
+      internalID: -4363689277703099010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_122
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 1870
+        width: 82
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d398909e9e06c990800000000000000
+      internalID: -7366184066324327463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_123
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1870
+        width: 80
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b193745943c35c90800000000000000
+      internalID: -7182182261008920138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_124
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1870
+        width: 82
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bf2c7d5b3dedc830800000000000000
+      internalID: 4093188475576922035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_125
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 1870
+        width: 82
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f26b704d79d2a1e0800000000000000
+      internalID: -2187947336972672272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_126
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 1870
+        width: 81
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8177ee50af4aa530800000000000000
+      internalID: 3866990780256579983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_127
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 1870
+        width: 82
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fb132fd2448a0c70800000000000000
+      internalID: 8938101833216498675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_128
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 1870
+        width: 82
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45413b189aa666790800000000000000
+      internalID: -7537219650099932076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_129
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 1870
+        width: 97
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71c5c487c45e99570800000000000000
+      internalID: 8474056290472844311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_130
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1802
+        width: 80
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acbc8386d73a6b110800000000000000
+      internalID: 1276387303420906442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_131
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1802
+        width: 82
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43b7382cc29fc2570800000000000000
+      internalID: 8443397372050111284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_132
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 1802
+        width: 82
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 143d59f77f7e14de0800000000000000
+      internalID: -1350543363050974399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_133
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1802
+        width: 80
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f19f3eb6274fb10800000000000000
+      internalID: 2014360741053276001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_134
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1802
+        width: 82
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d70322786c9383820800000000000000
+      internalID: 2898129885046386813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_135
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 1802
+        width: 82
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfdb8c0d9fbf05a60800000000000000
+      internalID: 7660900016525458940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_136
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 1802
+        width: 81
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fd0ac5472688c410800000000000000
+      internalID: 1497594379333406197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_137
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 1802
+        width: 82
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 279b597f10cd58af0800000000000000
+      internalID: -394667491318187662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_138
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 1802
+        width: 82
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb60e95f320483140800000000000000
+      internalID: 4699576734349919931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_139
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 1802
+        width: 97
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 413b1afc44c8e5010800000000000000
+      internalID: 1179534379586794260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_140
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1734
+        width: 80
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d90a9959f747d20800000000000000
+      internalID: 3275383109509487993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_141
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1734
+        width: 82
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05f7077a710de19b0800000000000000
+      internalID: -5107416127379570864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_142
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 1734
+        width: 82
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee5348f03c6d9b350800000000000000
+      internalID: 6033089309106779630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_143
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1734
+        width: 80
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8babd69b6119e4b20800000000000000
+      internalID: 3120591118600616632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_144
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1734
+        width: 82
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a5b1d769f38c9ef0800000000000000
+      internalID: -100059984497101408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_145
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 1734
+        width: 82
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9551ac799be92dbf0800000000000000
+      internalID: -301003705127660199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_146
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 1734
+        width: 81
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b1ddea246189b8d0800000000000000
+      internalID: -2830088623608704583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_147
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 1734
+        width: 82
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 117cf212daaaf7620800000000000000
+      internalID: 2774123556046358289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_148
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 1734
+        width: 82
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd56c412b926fd6b0800000000000000
+      internalID: -5269384620582083108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_149
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 1734
+        width: 97
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b5bbfa09d78ddd20800000000000000
+      internalID: 3304947067821733298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_150
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1666
+        width: 52
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fd0cf38a8e1c9f10800000000000000
+      internalID: 2277729091811282419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_151
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 1666
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d9271b5dbfaa6e0800000000000000
+      internalID: -1825369803721630350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_152
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1666
+        width: 65
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04684c58b90288980800000000000000
+      internalID: -8536537241344506304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_153
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1666
+        width: 57
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b9188db69b987ed0800000000000000
+      internalID: -2416010128357058125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_154
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 1666
+        width: 61
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 092b66acda7247ba0800000000000000
+      internalID: -6092200768546884976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_155
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 1666
+        width: 51
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaaca83619a44b070800000000000000
+      internalID: 8121198016356600494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_156
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 1666
+        width: 59
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abc1ac592136f86f0800000000000000
+      internalID: -680216087236043590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_157
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 1666
+        width: 60
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dc2f2b641c313d50800000000000000
+      internalID: 6715214577781386448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_158
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 1666
+        width: 50
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b208575b41af8ae0800000000000000
+      internalID: -1544838802204785993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_159
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 1666
+        width: 57
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57ecfa91edc10af40800000000000000
+      internalID: 5737617665509281397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_160
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1666
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec580483cf23eaaa0800000000000000
+      internalID: -6147920382457248306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_161
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 1666
+        width: 66
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b622feee0ed714300800000000000000
+      internalID: 234607060634772075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_162
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 1666
+        width: 58
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94c9438128e993960800000000000000
+      internalID: 7582265729243978825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_163
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1666
+        width: 28
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4646e4ba2874e0fe0800000000000000
+      internalID: -1220959822425463708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_164
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1632
+        width: 25
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a349aebaf7e07edd0800000000000000
+      internalID: -2456979130199403462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_165
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1632
+        width: 8
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9fcd312cee9209e0800000000000000
+      internalID: -1656586975911751778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_166
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1632
+        width: 23
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e81297e5c67c16410800000000000000
+      internalID: 1468674221754884494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_167
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1632
+        width: 9
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac0c5b332b1fa9460800000000000000
+      internalID: 7249372297880256714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_168
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1632
+        width: 26
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 079d3727edb93ef30800000000000000
+      internalID: 4603694623808018800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_169
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1632
+        width: 8
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbcf5b74e826df1f0800000000000000
+      internalID: -1009542378233135941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_170
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1632
+        width: 15
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1fcdec3e2af0a600800000000000000
+      internalID: 477656636998930205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_171
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1632
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 880c348c241e240b0800000000000000
+      internalID: -5745782497627357048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_172
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 1632
+        width: 46
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77b34541cc352bc60800000000000000
+      internalID: 7832414837930212215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_173
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1632
+        width: 26
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a8ec8ade625ad290800000000000000
+      internalID: -7864883163182602071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_174
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1632
+        width: 139
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ccffb71861ecfee0800000000000000
+      internalID: -1225857161360311100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_175
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1632
+        width: 25
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93385ec2348916cf0800000000000000
+      internalID: -260759889127308487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_176
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1632
+        width: 143
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fea81d22521c59310800000000000000
+      internalID: 1411246423492627183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_177
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 1632
+        width: 93
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4031442a85c9d990800000000000000
+      internalID: -7360634918855954357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_178
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 1632
+        width: 14
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2132f1315d9054890800000000000000
+      internalID: -7474557195797978350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_179
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 1632
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d0cb7befeea6e490800000000000000
+      internalID: -7717288565981593385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_180
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 1626
+        width: 21
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f30963e30f4b64e30800000000000000
+      internalID: 4487473022650191935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_181
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 1632
+        width: 45
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 606a409080f217950800000000000000
+      internalID: 6444984253301433862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_182
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 1632
+        width: 49
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e78da93fd659858f0800000000000000
+      internalID: -551526654881900418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_183
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1593
+        width: 77
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 996b3f7a2bb6e5b90800000000000000
+      internalID: -7251239934953802087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_184
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1593
+        width: 144
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7624316d95c73af0800000000000000
+      internalID: -416647160777136518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_185
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 1593
+        width: 292
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 707ba8478b3607160800000000000000
+      internalID: 7021221462950983431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_186
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1443
+        width: 65
+        height: 131
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e25105607d2bc78a0800000000000000
+      internalID: -6305968741631912658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_187
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1443
+        width: 92
+        height: 148
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7acdc03096bcc1e00800000000000000
+      internalID: 1016911267762068647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_188
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1460
+        width: 104
+        height: 120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d41d7c936feb0180800000000000000
+      internalID: -9147955006966786857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_189
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1494
+        width: 157
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc4e3d1b29dac14a0800000000000000
+      internalID: -6621226506581187380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_190
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 1488
+        width: 159
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ffe341fa61f45d70800000000000000
+      internalID: 9031108594401275889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_191
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 1447
+        width: 124
+        height: 142
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e57f4b38aa9d82f0800000000000000
+      internalID: -968948297474542109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_192
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 1447
+        width: 129
+        height: 144
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54d9722b5763dc410800000000000000
+      internalID: 1498914130112257349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_193
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1457
+        width: 122
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4d1ce92654dfc1a0800000000000000
+      internalID: -6786972646888432305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_194
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1267
+        width: 293
+        height: 174
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ac460bda36509e60800000000000000
+      internalID: 7966962551601122464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_195
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 1268
+        width: 297
+        height: 172
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80f70373585bdb1e0800000000000000
+      internalID: -2180387060816249080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_196
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 1274
+        width: 299
+        height: 167
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 983937e5e7a16c5a0800000000000000
+      internalID: -6501479882009898103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_197
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1101
+        width: 300
+        height: 164
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 857b6b4a35d120990800000000000000
+      internalID: -7421336990870227112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_198
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1103
+        width: 302
+        height: 160
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 301da34a649212d70800000000000000
+      internalID: 9016533312352211203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_199
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 1101
+        width: 301
+        height: 163
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97ef01d3b9e7025c0800000000000000
+      internalID: -4242251643773452679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_200
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 929
+        width: 297
+        height: 167
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 762e46834f6795a10800000000000000
+      internalID: 1898679509203608167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_201
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 926
+        width: 297
+        height: 171
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7042b2d0b2ecae700800000000000000
+      internalID: 570494987115635719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_202
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 925
+        width: 293
+        height: 174
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0104d258d968eef00800000000000000
+      internalID: 1148002966128377872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_203
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 751
+        width: 296
+        height: 172
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 873e2cc93e69d4720800000000000000
+      internalID: 2832085645017670520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_204
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 753
+        width: 299
+        height: 167
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a105e64599fedec0800000000000000
+      internalID: -3540117837531774558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_205
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 755
+        width: 301
+        height: 164
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef762d9ca83f4eae0800000000000000
+      internalID: -1520822996727339010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_206
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 585
+        width: 302
+        height: 161
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f088549934614e300800000000000000
+      internalID: 280373556393904143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_207
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 584
+        width: 300
+        height: 163
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff52dc4203db58930800000000000000
+      internalID: 4144927046537913855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_208
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 583
+        width: 299
+        height: 167
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31b700d543d22c8d0800000000000000
+      internalID: -2827647913113388269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_209
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 393
+        width: 296
+        height: 171
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82173c0370e28cf60800000000000000
+      internalID: 8054738541969895720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_210
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 423
+        width: 105
+        height: 107
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 724afb38743ae8110800000000000000
+      internalID: 1265128072886068263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_211
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 423
+        width: 104
+        height: 107
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 642739ab59e2289b0800000000000000
+      internalID: -5079446209105268154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_212
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 423
+        width: 105
+        height: 107
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c5b20de135774bc0800000000000000
+      internalID: -3798938903373498935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_213
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 423
+        width: 104
+        height: 107
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1965fa0eb3c6840f0800000000000000
+      internalID: -1132536301855222127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_214
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 244
+        width: 62
+        height: 132
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c93af73516645800800000000000000
+      internalID: 600216891666610625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_215
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 244
+        width: 64
+        height: 130
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf3fa0632df9a1a30800000000000000
+      internalID: 4186834528792933372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_216
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 239
+        width: 74
+        height: 133
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33a64c7c2f9e81c80800000000000000
+      internalID: -8351668280015689165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_217
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 238
+        width: 80
+        height: 131
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef03e86a68cdc5a60800000000000000
+      internalID: 7664243136755806462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_218
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 236
+        width: 66
+        height: 131
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 063cba73cba7abd60800000000000000
+      internalID: 7906767044608770912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_219
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 237
+        width: 62
+        height: 131
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 745d1f50a6eca5160800000000000000
+      internalID: 7015146324344558919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_220
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 232
+        width: 90
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfcb8d76aa6581a70800000000000000
+      internalID: 8797877161954950395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_221
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 226
+        width: 121
+        height: 164
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a8ecd9c67575ac70800000000000000
+      internalID: 8981714184913610921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_222
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 210
+        width: 134
+        height: 178
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7154c44809074f270800000000000000
+      internalID: 8283369380638377239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_223
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 210
+        width: 143
+        height: 176
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fff42e201784f4360800000000000000
+      internalID: 7156017983131897855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_224
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 5
+        width: 168
+        height: 177
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68223355f8e1a3aa0800000000000000
+      internalID: -6180593937654013306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_225
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 5
+        width: 138
+        height: 178
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 834b6aa7b53791030800000000000000
+      internalID: 3465928224975270968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_226
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 5
+        width: 96
+        height: 179
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ec1a82465b9a1b80800000000000000
+      internalID: -8423249358257251099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_227
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 5
+        width: 98
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b71abadb661ef1e70800000000000000
+      internalID: 9088230404442005883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_228
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 6
+        width: 120
+        height: 193
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c1cd711c00f638a0800000000000000
+      internalID: -6325604691971554879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soccer_229
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 4
+        width: 147
+        height: 204
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb22329697839ddc0800000000000000
+      internalID: -3613795131882003777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
